@@ -1,0 +1,36 @@
+{
+  "name": "Line Coverage Highlight / 线路覆盖范围高亮",
+  "summary": "Highlight combined station coverage while editing a line, with seven colors to choose from.",
+  "description": "Highlight the combined coverage of stations along a line while editing, making gaps and overlapping coverage easier to see.\n\nYou can enable the mod in an existing save. No other mods are required.\n\nCoverage display\n\nOpen line management and select a line to display the combined coverage of its station stops on the map. Coverage updates automatically when stops are added or removed and hides when you close line editing.\n\nColor settings\n\nSelect the highlight color under Coverage color in the mod options.\n\nAvailable colors: blue (default), green, cyan, orange, purple, pink and white.\n\nProject and development\n\nGitHub repository: https://github.com/spy20051623/spy_line_coverage_highlight\n\nDeveloped by spy in collaboration with AI.",
+  "authors": [
+    {
+      "name": "spy",
+      "role": "CREATOR"
+    }
+  ],
+  "tags": [
+    "Script Mod"
+  ],
+  "localization": {
+    "en": {
+      "name": "Line Coverage Highlight / 线路覆盖范围高亮",
+      "summary": "Highlight combined station coverage while editing a line, with seven colors to choose from.",
+      "description": "Highlight the combined coverage of stations along a line while editing, making gaps and overlapping coverage easier to see.\n\nYou can enable the mod in an existing save. No other mods are required.\n\nCoverage display\n\nOpen line management and select a line to display the combined coverage of its station stops on the map. Coverage updates automatically when stops are added or removed and hides when you close line editing.\n\nColor settings\n\nSelect the highlight color under Coverage color in the mod options.\n\nAvailable colors: blue (default), green, cyan, orange, purple, pink and white.\n\nProject and development\n\nGitHub repository: https://github.com/spy20051623/spy_line_coverage_highlight\n\nDeveloped by spy in collaboration with AI."
+    },
+    "zh_CN": {
+      "name": "Line Coverage Highlight / 线路覆盖范围高亮",
+      "summary": "编辑线路时高亮显示各车站的合并覆盖范围，支持七种颜色。",
+      "description": "编辑线路时，高亮显示沿线各车站合并后的覆盖范围，方便查看覆盖缺口和重复覆盖。\n\n可直接在已有存档中启用，不依赖其他模组。\n\n范围显示\n\n打开线路管理并选择一条线路后，地图上会显示该线路各停靠站合并后的覆盖范围。增删停靠站时，范围会自动更新；关闭线路编辑后自动隐藏。\n\n颜色配置\n\n在模组选项的「覆盖范围颜色」中选择高亮颜色。\n\n可选颜色：蓝色（默认）、绿色、青色、橙色、紫色、粉色、白色。\n\n项目与开发\n\nGitHub 仓库: https://github.com/spy20051623/spy_line_coverage_highlight\n\n本模组由 spy 与 AI 协作开发。"
+    },
+    "zh": {
+      "name": "Line Coverage Highlight / 线路覆盖范围高亮",
+      "summary": "编辑线路时高亮显示各车站的合并覆盖范围，支持七种颜色。",
+      "description": "编辑线路时，高亮显示沿线各车站合并后的覆盖范围，方便查看覆盖缺口和重复覆盖。\n\n可直接在已有存档中启用，不依赖其他模组。\n\n范围显示\n\n打开线路管理并选择一条线路后，地图上会显示该线路各停靠站合并后的覆盖范围。增删停靠站时，范围会自动更新；关闭线路编辑后自动隐藏。\n\n颜色配置\n\n在模组选项的「覆盖范围颜色」中选择高亮颜色。\n\n可选颜色：蓝色（默认）、绿色、青色、橙色、紫色、粉色、白色。\n\n项目与开发\n\nGitHub 仓库: https://github.com/spy20051623/spy_line_coverage_highlight\n\n本模组由 spy 与 AI 协作开发。"
+    },
+    "fr": {
+      "name": "Line Coverage Highlight / 线路覆盖范围高亮",
+      "summary": "Affiche la couverture combinée des stations pendant l’édition. Sept couleurs au choix.",
+      "description": "Affichez la couverture combinée des stations pendant la modification d’une ligne, afin de repérer les zones non couvertes et les chevauchements.\n\nVous pouvez activer ce mod dans une sauvegarde existante. Aucun autre mod n’est nécessaire.\n\nAffichage de la couverture\n\nOuvrez le gestionnaire de lignes et sélectionnez une ligne pour afficher sur la carte la couverture combinée de ses arrêts. La couverture se met à jour automatiquement lorsque vous ajoutez ou retirez un arrêt et disparaît à la fermeture de l’édition.\n\nCouleurs\n\nChoisissez la couleur de surbrillance dans les options du mod.\n\nCouleurs disponibles : bleu (par défaut), vert, cyan, orange, violet, rose et blanc.\n\nProjet et développement\n\nDépôt GitHub: https://github.com/spy20051623/spy_line_coverage_highlight\n\nDéveloppé par spy en collaboration avec une IA."
+    }
+  }
+}

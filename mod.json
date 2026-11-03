@@ -1,0 +1,26 @@
+{
+  "modId": "spy_line_coverage",
+  "revision": 1,
+  "severityAdd": "None",
+  "severityRemove": "None",
+  "visible": true,
+  "cosmetic": true,
+  "params": [
+    {
+      "key": "coverageColor",
+      "name": "coverage_color_name",
+      "tooltip": "coverage_color_tooltip",
+      "uiType": "ComboBox",
+      "values": [
+        "coverage_color_blue",
+        "coverage_color_green",
+        "coverage_color_cyan",
+        "coverage_color_orange",
+        "coverage_color_purple",
+        "coverage_color_pink",
+        "coverage_color_white"
+      ],
+      "defaultIndex": 0
+    }
+  ]
+}

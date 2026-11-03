@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+dist/
+_metadata/mod.io_fileid.txt
+*.log
+.env

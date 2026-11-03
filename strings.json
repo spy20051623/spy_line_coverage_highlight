@@ -1,0 +1,35 @@
+{
+  "en": {
+    "coverage_color_name": "Coverage color",
+    "coverage_color_tooltip": "Choose the coverage outline color. Blue preserves the original effect. Reload the game after changing this option.",
+    "coverage_color_blue": "Blue (default)",
+    "coverage_color_green": "Green",
+    "coverage_color_cyan": "Cyan",
+    "coverage_color_orange": "Orange",
+    "coverage_color_purple": "Purple",
+    "coverage_color_pink": "Pink",
+    "coverage_color_white": "White"
+  },
+  "zh_CN": {
+    "coverage_color_name": "覆盖范围颜色",
+    "coverage_color_tooltip": "选择覆盖范围轮廓的颜色。默认蓝色保持原有发光效果；更改选项后请重新加载游戏。",
+    "coverage_color_blue": "蓝色（默认）",
+    "coverage_color_green": "绿色",
+    "coverage_color_cyan": "青色",
+    "coverage_color_orange": "橙色",
+    "coverage_color_purple": "紫色",
+    "coverage_color_pink": "粉色",
+    "coverage_color_white": "白色"
+  },
+  "zh": {
+    "coverage_color_name": "覆盖范围颜色",
+    "coverage_color_tooltip": "选择覆盖范围轮廓的颜色。默认蓝色保持原有发光效果；更改选项后请重新加载游戏。",
+    "coverage_color_blue": "蓝色（默认）",
+    "coverage_color_green": "绿色",
+    "coverage_color_cyan": "青色",
+    "coverage_color_orange": "橙色",
+    "coverage_color_purple": "紫色",
+    "coverage_color_pink": "粉色",
+    "coverage_color_white": "白色"
+  }
+}
